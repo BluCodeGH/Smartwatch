@@ -1,0 +1,1 @@
+#generic component makefile
